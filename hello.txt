@@ -1,1 +1,2 @@
 Nadee gaat leren werken met git.
+Git lijkt me zeer interessant.
